@@ -1,0 +1,7 @@
+version: '1.0.0'
+name: '555 Synthesizer'
+website: 'https://github.com/Selinica/555_synthesizer'
+licenses: ['CERN-OHL-W-2.0+']
+documentation: 'https://github.com/Selinica/555_synthesizer/wiki'
+issues: 'https://github.com/Selinica/555_synthesizer/issues'
+latest_release: 'https://github.com/Selinica/555_synthesizer/releases/latest'
